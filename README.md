@@ -1,8 +1,8 @@
-ProfileCardwithShareModal:
+# ProfileCardwithShareModal:
 
 This repository contains a simple HTML, CSS, and JavaScript code for creating a profile card with a share modal. The code allows users to showcase their profile information and share it on various social media platforms.
 
-Profile Card with Share Modal:
+# Profile Card with Share Modal:
 
 This project showcases a simple HTML, CSS, and JavaScript implementation of a profile card with a share modal. Users can display the ir profile information and easily share it on various social media platforms.
 
@@ -10,7 +10,7 @@ This project showcases a simple HTML, CSS, and JavaScript implementation of a pr
 
 <img width="959" alt="psm2" src="https://github.com/user-attachments/assets/070ba582-966e-465a-b654-874f15ae5b4b">
 
-Features Profile Card: 
+# Features Profile Card: 
 
 Display user information including name and occupation.
 
